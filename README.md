@@ -153,7 +153,7 @@ If you find MoDA useful in your research or applications, please consider giving
 @article{zhu2026moda,
   title   = {Mixture-of-Depths Attention},
   author  = {Zhu, Lianghui and Fang, Yuxin and Liao, Bencheng and Wang, Shijie and Cheng, Tianheng and Huang, Zilong and Chen, Chen and Wei, Lai and Zeng, Yutao and Wang, Ya and Lin, Yi and Li, Yu and Wang, Xinggang},
-  journal = {arXiv preprint arXiv:2603.xxxxx},
+  journal = {arXiv preprint arXiv:2603.15619},
   year    = {2026}
 }
 ```
