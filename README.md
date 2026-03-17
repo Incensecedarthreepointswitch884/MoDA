@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Mixture-of-Depths Attention</h1>
-<h3>Scaling Transformers Along the Depth Stream</h3>
+<h3>Test-Time-Training (TTT) Along the Depth Stream</h3>
 
 Lianghui Zhu<sup>1,2</sup>, Yuxin Fang<sup>2,&dagger;</sup>, Bencheng Liao<sup>1,2</sup>, Shijie Wang<sup>2</sup>, Tianheng Cheng<sup>2</sup>, Zilong Huang<sup>2</sup>, Chen Chen<sup>2</sup>, Lai Wei<sup>2</sup>, Yutao Zeng<sup>2</sup>, Ya Wang<sup>2</sup>, Yi Lin<sup>2</sup>, Yu Li<sup>2</sup>, Xinggang Wang<sup>1,#</sup>
 
@@ -23,7 +23,9 @@ ArXiv Preprint ([arXiv 2603.15619](https://arxiv.org/abs/2603.15619))
 - [x] Release Mixture-of-Depths Attention (MoDA) paper on arXiv.
 - [x] Release [MoDA Triton kernel](libs/moda_triton/fla/ops/moda/moda_v14.py) and corresponding test units.
 - [x] Release [Chunk-Visible MoDA Triton kernel](libs/moda_triton/fla/ops/moda/moda_v16.py) and corresponding test units.
-- [ ] Release full training recipe and reproducible configs.
+- [ ] Release Non-Causal MoDA Triton kernel and corresponding test units.
+- [ ] Release full LLM training recipe and reproducible configs.
+- [ ] Release full vision tasks training recipe, i.e., Classification on ImageNet.
 
 ## Abstract
 
